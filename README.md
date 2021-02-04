@@ -1,5 +1,8 @@
 # Healthcare-System
 PROJECT TITLE : HEALTHCARE SYSTEM
+Hospital management systems allows us the ability to optimize and digitize all the processes within the institution, which will help to improve customer service, reduce process costs, streamline the search of medical records, bills, patients, doctors, etc.; thus, having a database of each module implemented.
+We sometimes come across crises in emergency services where things get delayed due to traditional methods like manual entries and paperwork. If we consider visiting any government hospital due to personal reasons, we may come across a lot of time wasted in transferring papers and finding out details from files. All the important processes like registration of patients, recording their disease details into the system. It will also contain doctor’s information and will digitalize the whole billing system. While on the other hand Private Hospitals save a lot of time doing these works in a digitalized format.
+Therefore, from these scenarios we came to a conclusion of creating a web-based application which can make the process simpler and faster.
 
 TECHNOLOGIES USED : PHP AND MYSQL
 
